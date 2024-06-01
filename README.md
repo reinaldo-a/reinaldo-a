@@ -8,6 +8,13 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 
+## 💼 Perfil Profissional
+
+- 💻 Estudante de Programação
+- 💻 Formação em Técnico Informática para Internet Integrado
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando Analise desenvolvimento de sistemas/ UNIASSELVI 
+  
 ## Habilidades Tecnológicas
 
 💻 Aqui estão algumas das tecnologias que eu domino:
