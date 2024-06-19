@@ -39,6 +39,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r.junior_26/)
 [![Instagram](https://img.shields.io/badge/77999636018-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/Y27BAVGQT5VHE1)
-[![Instagram](https://img.shields.io/badge/-juniorescopa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/-juniorescopa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://juniorescopa@gmail.com)
 
 ![Reinaldo-a GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinaldo-a&show_icons=true&theme=radical)
