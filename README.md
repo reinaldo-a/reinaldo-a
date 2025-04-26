@@ -13,7 +13,7 @@
 - 💻 Estudante de Programação
 - 💻 Formação em Técnico Informática para Internet Integrado
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando Analise desenvolvimento de sistemas/ UNIASSELVI 
+- 🎓 Cursando Analise desenvolvimento de sistemas/ IF Baiano 
   
 ## Habilidades Tecnológicas
 
@@ -21,19 +21,19 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=php,javascript,python,c)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,python,c)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,wordpress)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,laravel,bootstrap,wordpress)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,firebase,postgres)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,arduino)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,arduino,docker)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css,javascript)](https://skillicons.dev) 
 
 ## Vamos Conectar!
 
