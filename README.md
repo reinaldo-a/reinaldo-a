@@ -1,14 +1,7 @@
-# 🚀 Olá, eu sou Reinaldo Soares Assunção Junior
+# Olá, eu sou Reinaldo Soares Assunção Junior
 
 ## Sobre mim
-
-✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
-
-## 💼 Perfil Profissional
-
-- 💻 Estudante de Programação
 - 💻 Formação em Técnico Informática para Internet Integrado
-- 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando Analise Desenvolvimento de sistemas/ IF Baiano 
   
 ## Habilidades Tecnológicas
@@ -37,4 +30,3 @@
 [![Instagram](https://img.shields.io/badge/77981432217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/Y27BAVGQT5VHE1)
 [![Instagram](https://img.shields.io/badge/-juniorescopa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://juniorescopa@gmail.com)
 
-![Reinaldo-a GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinaldo-a&show_icons=true&theme=radical)
